@@ -1,0 +1,18 @@
+{
+  "workbench.colorCustomizations": {
+    "[Omni]": {
+      "editor.selectionBackground": "#334",
+      "editor.selectionHighlightBorder": "#668",
+      "tab.inactiveForeground": "#66a",
+      "gitDecoration.ignoredResourceForeground": "#558",
+      "editorLineNumber.foreground": "#666",
+      "editorLineNumber.activeForeground": "#0f0",
+      "sideBar.foreground": "#fff",
+      "list.activeSelectionForeground": "#aa0",
+      "list.activeSelectionBackground": "#222"
+    },
+    "activityBar.background": "#133415",
+    "titleBar.activeBackground": "#1B491E",
+    "titleBar.activeForeground": "#F7FCF7"
+  }
+}
